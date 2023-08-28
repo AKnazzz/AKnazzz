@@ -50,6 +50,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AKnazzz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+---
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
 **AKnazzz/AKnazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
