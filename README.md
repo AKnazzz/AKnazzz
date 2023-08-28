@@ -46,7 +46,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AKnazzz)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKnazzz&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKnazzz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AKnazzz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -55,6 +55,9 @@
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
 <!--
 **AKnazzz/AKnazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
