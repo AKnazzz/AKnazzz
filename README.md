@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm Andrey </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Java Developer from Russia 🇷🇺</h3>
+<h3 align="center">Java Developer from Russia </h3>
 
 <h3 align="center">📫 Contact me:</h3>
 <p align="center">
@@ -39,6 +39,11 @@
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/hibernate.svg" alt="spring" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="spring" width="40" height="40"/></a>
 </p>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AKnazz&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **AKnazzz/AKnazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
