@@ -6,6 +6,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java Developer from Russia </h3>
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 <h3 align="center">📫 Contact me:</h3>
 <p align="center">
 <a href="https://t.me/AKnazzz" target="blank"><img align="center" src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram" height="35"  /></a>
