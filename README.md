@@ -43,9 +43,9 @@
 ---
 
 ### :fire: My Stats :
-<h1 align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AKnazzz)](https://git.io/streak-stats)
-<h1 align="center"> </a> 
+<p align="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AKnazzz)](https://git.io/streak-stats) </a>
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKnazzz&layout=compact&theme=vision-friendly-dark)]
 (https://github.com/anuraghazra/github-readme-stats) </a> 
 
