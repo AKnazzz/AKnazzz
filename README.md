@@ -48,7 +48,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKnazzz&layout=compact&theme=vision-friendly-dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AKnazzz)](https://github.com/AKnazzz/github-profile-trophy)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=AKnazzz)](https://github.com/AKnazzz/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=AKnazzz&theme=darkhub)
 
 <!--
 **AKnazzz/AKnazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
