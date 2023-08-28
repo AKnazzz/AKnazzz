@@ -17,6 +17,10 @@
 
 <h1 align="center"> <img src="https://komarev.com/ghpvc/?username=AKnazzz&style=flat-square&color=blue" alt=""/> </a>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ### :man_technologist: About Me :
 - :telescope: I’m a Software Engineer and contributing to backend for building web applications.
 
@@ -26,9 +30,6 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-knyazev-3091a6258/)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 <h3 align="center"> 🛠 Languages and Tools:</h3>
 <p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"" alt="java" width="40" height="40"/></a>
