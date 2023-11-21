@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://t.me/AKnazzz" target="blank"><img align="center" src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram" height="35"  /></a>
 <a href="mailto:ivklim7@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" height="35"  /></a>
-<a href="https://www.linkedin.com/in/andrey-knyazev-3091a6258/(https://www.linkedin.com/in/andrey-knyazev-3091a6258/)" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35"  /></a>
+<a href="https://www.linkedin.com/in/aknazzz/(https://www.linkedin.com/in/aknazzz/)" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35"  /></a>
 
 
 </p>
